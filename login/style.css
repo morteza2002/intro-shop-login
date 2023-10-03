@@ -60,6 +60,8 @@ form .form-field {
   align-items: center;
   margin-bottom: 1rem;
   position: relative;
+  direction: rtl;
+  
 }
 form input {
   font-family: inherit;
